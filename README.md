@@ -7,7 +7,7 @@ This repository contains my notes, codes, and mini projects as I explore in Data
 
 # Connect
 [LinkedIn]- www.linkedin.com/in/sakshi-hiremath-00bbb2280
-[Github] - 
+[Github] - https://github.com/sakshihiremath20
 [Blog] - https://hashnode.com/@sakshihiremath
 
 
